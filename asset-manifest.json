@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/my-works/static/css/main.452d1c3c.chunk.css",
+    "main.js": "/my-works/static/js/main.eb8e3247.chunk.js",
+    "main.js.map": "/my-works/static/js/main.eb8e3247.chunk.js.map",
+    "runtime-main.js": "/my-works/static/js/runtime-main.31e7582f.js",
+    "runtime-main.js.map": "/my-works/static/js/runtime-main.31e7582f.js.map",
+    "static/css/2.150d169a.chunk.css": "/my-works/static/css/2.150d169a.chunk.css",
+    "static/js/2.2e5eb35f.chunk.js": "/my-works/static/js/2.2e5eb35f.chunk.js",
+    "static/js/2.2e5eb35f.chunk.js.map": "/my-works/static/js/2.2e5eb35f.chunk.js.map",
+    "static/js/3.3dc4f4fb.chunk.js": "/my-works/static/js/3.3dc4f4fb.chunk.js",
+    "static/js/3.3dc4f4fb.chunk.js.map": "/my-works/static/js/3.3dc4f4fb.chunk.js.map",
+    "index.html": "/my-works/index.html",
+    "static/css/2.150d169a.chunk.css.map": "/my-works/static/css/2.150d169a.chunk.css.map",
+    "static/css/main.452d1c3c.chunk.css.map": "/my-works/static/css/main.452d1c3c.chunk.css.map",
+    "static/js/2.2e5eb35f.chunk.js.LICENSE.txt": "/my-works/static/js/2.2e5eb35f.chunk.js.LICENSE.txt",
+    "static/media/globe-flag.3cb9d59d.png": "/my-works/static/media/globe-flag.3cb9d59d.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.31e7582f.js",
+    "static/css/2.150d169a.chunk.css",
+    "static/js/2.2e5eb35f.chunk.js",
+    "static/css/main.452d1c3c.chunk.css",
+    "static/js/main.eb8e3247.chunk.js"
+  ]
+}
